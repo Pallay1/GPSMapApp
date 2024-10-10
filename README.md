@@ -1,4 +1,4 @@
-# SimpleGPSMapApp
+# GPSMapApp
 
 Esta aplicación muestra un mapa con la ubicación actual del usuario.
 
